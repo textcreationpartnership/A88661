@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Duke of Luxembourg to the French King giving a full account of the late battle in Flanders translated from the French copy.</title>
+            <author>Luxembourg, François-Henri de Montmorency, duc de, 1628-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88661</idno>
+            <idno type="STC">Wing L3521aA</idno>
+            <idno type="STC">ESTC R43700</idno>
+            <idno type="EEBO-CITATION">42475111</idno>
+            <idno type="OCLC">ocm 42475111</idno>
+            <idno type="VID">151242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2251:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Duke of Luxembourg to the French King giving a full account of the late battle in Flanders translated from the French copy.</title>
+                  <author>Luxembourg, François-Henri de Montmorency, duc de, 1628-1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Lyford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed According to Order 1693."</note>
+                  <note>Imperfect: stained, tightly bound, and with print show-through, with loss of print.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Belgium.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151242:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>A LETTER FROM THE Duke of Luxembourg, TO THE FRENCH KING: Giving a Full Account of the Late Battle in Flanders.</head>
+            <head type="sub">
+               <hi>Tranſlated from the French Copy.</hi>
+            </head>
+            <div type="license_to_print">
+               <p>Licenſed Acording to Order <date>1693.</date>
+               </p>
+            </div>
+            <div type="body_of_letter">
+               <p>THO according to my former and long experienced Methods, I have endeavoured to buoy up the drooping Spirits of the Soldiery with the glorious Idea of <hi>Victory,</hi> and ſo put new Life and Vigour into the Hearts of your <hi>Gallick Troops;</hi> yet notwithſtanding all my Skill and Induſtry herein, I fear I ſhall find my Labour of ſmall Effect, not to ſay, loſt: So hard is it to impoſe upon any (tho of never ſo mean or vulgar Capacity) the belief of what their ve<g ref="char:EOLhyphen"/>ry Sences has moſt apparently found to the contrary: The Verity here<g ref="char:EOLhyphen"/>of I now experience; for the Army is ſo ſenſible how dearly they paid for the thing, which I am forc'd (even againſt my Conſcience) to nick<g ref="char:EOLhyphen"/>name Victory, that they take it as an Injury to Truth, and an Affront to themſelves. But that your Auguſt Majeſty may have a right Proſpect of the ſtate of your Majeſty's Troops in <hi>Flanders,</hi> I thought fit by the truſty Hand of Monſieur <hi>D' Artagnan</hi> to give your Majeſty as full an Account, as at preſent I can; Which is as followeth.</p>
+               <p>Upon the <hi>28th.</hi> by the Conſent of a Council of War, on Conſide<g ref="char:EOLhyphen"/>ration that many of the Enemies Troops were upon ſeveral Occaſions Detached and Commanded to ſundry Places for different Services, We marched our Army towards the Enemies Camp, knowing in muſt be much weakened by the late Detachments, and conſequently the forcing
+<pb n="2" facs="tcp:151242:2"/>
+                  <!-- PDF PAGE 41 -->thereof leſs Difficult than otherwiſe we could have thought it would have been. And on the the <hi>29th.</hi> early in the Morning we came within ſhot of the Enemies Cannon, who were very liberal thereof; for which in a ſhort time we made them plentiful Returns with ours; But with dif<g ref="char:EOLhyphen"/>ferent Succeſs: For tho I us'd my utmoſt Endeavours to cover our Troops from their Cannon, yet were we more Annoy'd and loſt far more Men than the Enemy, by reaſon of their more advantagious Poſts. Hence we concluded it neceſſary to come to a cloſer Engagement, which was effected about Nine of the Clock in the morning, by ſending down a ſtrong Body of Foot to attack the Enemy upon their Right; who by the vigorous Charge of ours, after ſome Diſpute, were forced to Re<g ref="char:EOLhyphen"/>tire, by which, tho with great loſs of men, we poſſeſt our ſelves of ſome Hedges, which ſeem'd very advantagious Poſts, being in the Valley of <hi>Lare;</hi> But we no ſooner had poſſeſt them, but the Enemy ſignaliz'd their Courage and Conduct by regaining what we with vaſt Numbers and great Loſs had obtained. In the mean time we made an Attack on their Left not far from the Village of <hi>Landin,</hi> and there had a very hot and ſharpe Diſpute for about Two Hours: But having no Succeſs, and lying open to many Diſadvantages, whereby we ſuſtained vaſt l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs of men, we were forced to draw off diſorderly from that Part: And while this was in doing, we ſent down many freſh Battalions, ſupported by ſeveral Squadrons, to make a ſecond Attack upon the Enemies Right; but were Repulſed with great Loſs ſeveral times, till at length, with continual freſh <hi>Supplies,</hi> we broke through, and made ſome of the E<g ref="char:EOLhyphen"/>nemies <hi>Squadrons</hi> to Retire; which notwithſtanding were Rallied again, and beat us back; but our men being maſters of ſome Hedges were Re<g ref="char:EOLhyphen"/>infoced by all the Troops of the Houſehold, and therewith Fought with the Advantage of Flanking all that were poſted at the Head of their In<g ref="char:EOLhyphen"/>trenchment, and preſently broke in upon the Enemy with ſuch Num<g ref="char:EOLhyphen"/>bers, that they were no longer able to maintain their Poſts againſt us; being at the ſame time flanked by our Foot, that ſtill remained poſted in the Hedges. Here we gained a conſiderable Advantage of the Ene<g ref="char:EOLhyphen"/>my, for as much as their Cavalry were forced to change the Form of their Lines, and were thereby put in ſome Diſorder: Yet for all this their Ca<g ref="char:EOLhyphen"/>valry made Head againſt us for ſome time, while the reſt of their Army, beginning at the Left, made a very good Retreat. We being hotly Engaged with the Horſe, loſt all Opportunity of falling upon their Rear: Beſides our Troops were ſo fatiegu'd with their former Marches, and this Days hot Service, that we were in no Condition to impede their Retreat. Thus on the <hi>29th.</hi> of <hi>July</hi> we made our ſelves Maſters of their advantagious Poſts. The Number of the ſlain are many and un<g ref="char:EOLhyphen"/>certain; but by reaſon of the ſeveral Diſadvantages we had, ours is the greater Loſs. This, moſt dread Soveraign, is all the Account I can give at preſent, which I thought fit to ſend with all Expedition.</p>
+               <closer>
+                  <dateline>Dated from the Camp <date>
+                        <hi>July</hi> 29, 1693.</date>
+                  </dateline>
+                  <signed>Luxembourg.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Daniel Lyford</hi> in <hi>Fleet-ſtreet,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
